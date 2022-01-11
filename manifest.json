@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "On this Day",
+    "version": "1.0.1",
+    "description": "Events that happened on the same day, different year, in history!",
+    "author": "@dootdoot1111",
+    "icons": {
+        "32": "images/icon.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "32": "images/icon.png"
+        },
+        "default_title": "OTD",
+        "default_popup": "popup.html"
+    }
+}
